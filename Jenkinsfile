@@ -1,5 +1,5 @@
 @Library('Ambika-Shared-Library')
-import com.Hexaware.SharedLib.SharedLibrary;
+import package com.hexaware.sharedlib.SharedLibrary;
 pipeline{
   agent any
   stages{
