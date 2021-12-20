@@ -3,7 +3,7 @@ package com.hexaware.sharedlib;
 class SharedLibrarygroovy {
     def steps
     
-    public SharedLibrary(steps){
+    public SharedLibrarygroovy(steps){
         this.steps=steps
     }
     
